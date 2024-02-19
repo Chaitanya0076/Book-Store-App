@@ -1,0 +1,5 @@
+- The Appication is a Book Store WebApp build using Reactjs, NodeJS, Express and MongoDB(MERN).
+- I have build to perform CRUD operations taking book store as the theme.
+- The website is totally responsive to mobile view too.(Used tailwind CSS for styling)
+- I have built this website to get myself some good understanding on MERN and to get myself some practise.
+- Link to website - https://chaitanya-book-store.netlify.app/
